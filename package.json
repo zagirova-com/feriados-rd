@@ -1,1 +1,27 @@
-{ "name": "feriados-rd", "version": "1.0.0", "description": "Días feriados de República Dominicana (y EE. UU. y Canadá) con la regla de traslado de la Ley 139-97.", "type": "module", "main": "index.js", "exports": { ".": "./index.js", "./datos/*": "./datos/*" }, "scripts": { "test": "node test.js" }, "license": "MIT", "author": "Zagirova <hola@zagirova.com> (https://zagirova.com)", "repository": "github:zagirova-com/feriados-rd", "keywords": ["feriados", "republica-dominicana", "dias-festivos", "ley-139-97", "holidays"] }
+{
+  "name": "feriados-rd",
+  "version": "1.0.0",
+  "description": "Días feriados de República Dominicana (y EE. UU. y Canadá) con la regla de traslado de la Ley 139-97.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./datos/*": "./datos/*"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "author": "Zagirova <hola@zagirova.com> (https://zagirova.com)",
+  "repository": "github:zagirova-com/feriados-rd",
+  "keywords": [
+    "feriados",
+    "republica-dominicana",
+    "dias-festivos",
+    "ley-139-97",
+    "holidays"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

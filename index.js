@@ -1,6 +1,6 @@
 // feriados-rd · días feriados de República Dominicana (y EE. UU. y Canadá) con la regla de traslado de la Ley 139-97.
-// Sin dependencias. Node 18+ o navegador (ESM).
-import datos2027 from "./datos/2027.json" with { type: "json" };
+// Sin dependencias. Node 18+ o navegador (ESM). Los datos también están en datos/2027.json.
+import datos2027 from "./datos/2027.js";
 const DATOS = { 2027: datos2027 };
 
 /** Lista de feriados de un año y país ("DO", "US", "CA"). */

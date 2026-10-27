@@ -2,7 +2,7 @@
 
 Días feriados de República Dominicana con la regla de traslado de la **Ley 139-97**, en JSON y en una función de JavaScript sin dependencias. Incluye los feriados federales de Estados Unidos y Canadá del mismo año.
 
-Lo mantiene [Zagirova](https://zagirova.com), que construye y opera los sistemas con los que las empresas venden, cobran y deciden. Es el mismo dato que usa nuestro [calendario de feriados 2027](https://zagirova.com/feriados-2027).
+Lo mantiene [Zagirova](https://zagirova.com), que construye y opera los sistemas con los que las empresas venden, cobran y deciden. Es el mismo dato que usa nuestro [calendario de feriados 2027](https://zagirova.com/calendario-2027-feriados-republica-dominicana).
 
 ## Uso
 
@@ -15,7 +15,7 @@ esFeriado("2027-01-04");        // { fecha: "2027-01-04", original: "2027-01-06"
 trasladar("2027-01-06");        // "2027-01-04": miércoles → lunes anterior
 ```
 
-O el JSON directo: [`datos/2027.json`](datos/2027.json).
+O el JSON directo: [`datos/2027.json`](datos/2027.json) (el mismo contenido que `datos/2027.js`, que es lo que importa el módulo).
 
 ## La regla (Ley 139-97)
 

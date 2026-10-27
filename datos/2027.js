@@ -1,0 +1,189 @@
+// Generado desde datos/2027.json (misma información, importable sin atributos de importación).
+export default {
+  "DO": {
+    "anio": 2027,
+    "fuente": "Ley 139-97 (texto en justia.com); reglas de traslado verificadas el 8-oct-2026. La resolución oficial del Ministerio de Trabajo para 2027 sale hacia noviembre de 2026.",
+    "feriados": [
+      {
+        "fecha": "2027-01-01",
+        "nombre": "Año Nuevo",
+        "nota": "No se traslada"
+      },
+      {
+        "fecha": "2027-01-04",
+        "original": "2027-01-06",
+        "nombre": "Día de Reyes",
+        "nota": "Cae miércoles 6: pasa al lunes 4",
+        "pendiente": true
+      },
+      {
+        "fecha": "2027-01-21",
+        "nombre": "Día de la Altagracia",
+        "nota": "No se traslada"
+      },
+      {
+        "fecha": "2027-01-25",
+        "original": "2027-01-26",
+        "nombre": "Día de Duarte",
+        "nota": "Cae martes 26: pasa al lunes 25",
+        "pendiente": true
+      },
+      {
+        "fecha": "2027-02-27",
+        "nombre": "Día de la Independencia",
+        "nota": "Cae sábado",
+        "finde": true
+      },
+      {
+        "fecha": "2027-03-26",
+        "nombre": "Viernes Santo",
+        "nota": "No se traslada"
+      },
+      {
+        "fecha": "2027-05-01",
+        "nombre": "Día del Trabajo",
+        "nota": "Cae sábado: solo se movería si fuera domingo",
+        "finde": true
+      },
+      {
+        "fecha": "2027-05-27",
+        "nombre": "Corpus Christi",
+        "nota": "No se traslada"
+      },
+      {
+        "fecha": "2027-08-16",
+        "nombre": "Día de la Restauración",
+        "nota": "Cae lunes"
+      },
+      {
+        "fecha": "2027-09-24",
+        "nombre": "Día de las Mercedes",
+        "nota": "No se traslada"
+      },
+      {
+        "fecha": "2027-11-06",
+        "nombre": "Día de la Constitución",
+        "nota": "Cae sábado",
+        "finde": true
+      },
+      {
+        "fecha": "2027-12-25",
+        "nombre": "Navidad",
+        "nota": "Cae sábado",
+        "finde": true
+      }
+    ]
+  },
+  "US": {
+    "anio": 2027,
+    "fuente": "U.S. Office of Personnel Management (opm.gov), federal holidays 2027, as observed.",
+    "feriados": [
+      {
+        "fecha": "2027-01-01",
+        "nombre": "New Year's Day"
+      },
+      {
+        "fecha": "2027-01-18",
+        "nombre": "Martin Luther King Jr. Day"
+      },
+      {
+        "fecha": "2027-02-15",
+        "nombre": "Washington's Birthday"
+      },
+      {
+        "fecha": "2027-05-31",
+        "nombre": "Memorial Day"
+      },
+      {
+        "fecha": "2027-06-18",
+        "original": "2027-06-19",
+        "nombre": "Juneteenth",
+        "nota": "June 19 is a Saturday: observed Friday the 18th"
+      },
+      {
+        "fecha": "2027-07-05",
+        "original": "2027-07-04",
+        "nombre": "Independence Day",
+        "nota": "July 4 is a Sunday: observed Monday the 5th"
+      },
+      {
+        "fecha": "2027-09-06",
+        "nombre": "Labor Day"
+      },
+      {
+        "fecha": "2027-10-11",
+        "nombre": "Columbus Day"
+      },
+      {
+        "fecha": "2027-11-11",
+        "nombre": "Veterans Day"
+      },
+      {
+        "fecha": "2027-11-25",
+        "nombre": "Thanksgiving Day"
+      },
+      {
+        "fecha": "2027-12-24",
+        "original": "2027-12-25",
+        "nombre": "Christmas Day",
+        "nota": "December 25 is a Saturday: observed Friday the 24th"
+      },
+      {
+        "fecha": "2027-12-31",
+        "original": "2028-01-01",
+        "nombre": "New Year's Day 2028",
+        "nota": "January 1, 2028 is a Saturday: observed Friday, Dec. 31"
+      }
+    ]
+  },
+  "CA": {
+    "anio": 2027,
+    "fuente": "Canada Labour Code, general holidays (canada.ca). Provincial holidays may differ.",
+    "feriados": [
+      {
+        "fecha": "2027-01-01",
+        "nombre": "New Year's Day"
+      },
+      {
+        "fecha": "2027-03-26",
+        "nombre": "Good Friday"
+      },
+      {
+        "fecha": "2027-05-24",
+        "nombre": "Victoria Day"
+      },
+      {
+        "fecha": "2027-07-01",
+        "nombre": "Canada Day"
+      },
+      {
+        "fecha": "2027-09-06",
+        "nombre": "Labour Day"
+      },
+      {
+        "fecha": "2027-09-30",
+        "nombre": "National Day for Truth and Reconciliation"
+      },
+      {
+        "fecha": "2027-10-11",
+        "nombre": "Thanksgiving"
+      },
+      {
+        "fecha": "2027-11-11",
+        "nombre": "Remembrance Day"
+      },
+      {
+        "fecha": "2027-12-25",
+        "nombre": "Christmas Day",
+        "nota": "Falls on a Saturday",
+        "finde": true
+      },
+      {
+        "fecha": "2027-12-26",
+        "nombre": "Boxing Day",
+        "nota": "Falls on a Sunday",
+        "finde": true
+      }
+    ]
+  }
+};
